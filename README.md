@@ -1,5 +1,7 @@
 # My HomeLab setup :house:
 
+![Homelab_30-5-25](images/Homelab_30-5-25.jpeg)
+
 
 #### Gear :gear:
 
