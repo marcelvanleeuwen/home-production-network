@@ -92,9 +92,11 @@ Netsis (NET) is a blockchain project focused on providing cybersecurity solution
 <br>
 <h2 align="center">Hardware I like to add or change 💰</h2> 
 <br>
-- Pro Max 24
-- Pro XG 10 PoE
-- U7 Pro XG
-- A second UNAS Pro with only SSD storage or a NVMe storage device.
-- Upgrade the MS-01 from 96GB to 128GB memory
-- Seperate Kubernetes cluster? :)
+<ul>
+ <li>- Pro Max 24</li>
+  <li>- Pro XG 10 PoE</li>
+  <li>- U7 Pro XG</li>
+  <li>- A second UNAS Pro with only SSD storage or a NVMe storage device</li>
+  <li>- Upgrade the MS-01 from 96GB to 128GB memory</li>
+  <li>- Seperate Kubernetes cluster? 🤔</li>
+</ul>
