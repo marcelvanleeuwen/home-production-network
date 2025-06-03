@@ -49,26 +49,33 @@ The Minisforum MS-01 is a compact, high-performance mini workstation/server desi
 <br>
 <h2 align="center">Software 🧑‍💻 </h2> 
 <br>
-- Unifi Network
-- Unfi Drive
-- Unifi Protect
-- Proxmox Virtual Enviroment (Type 1 Hypevisor)
-- Proxmox Backup Server
+<ul>
+  <li>Unifi Network</li>
+  <li>Unfi Drive</li>
+  <li>Unifi Protect</li>
+  <li>Proxmox Virtual Enviroment (Type 1 Hypevisor)</li>
+  <li>Proxmox Backup Server</li>
+</ul>
 <br>
 <h2 align="center">Virtual Machine 📦</h2> 
 <br>
-- Uptime Kuma
-- Wazuh
-- 8 Cumulus Nodes (Runonflux project expalined below)
-- 6 Presearch nodes (Presearch project explained below)
-- 1 Neoxa master node
-- 1 Netsis master node
-- Windows 11 Pro
+<ul>
+  <li>Uptime Kuma</li>
+  <li>Wazuh</li>
+  <li>8 Cumulus Nodes (Runonflux project expalined below)</li>
+  <li>6 Presearch nodes (Presearch project explained below)</li>
+  <li>1 Neoxa master node</li>
+  <li>1 Netsis master node</li>
+  <li>Windows 11 Pro</li>
+  <li>K8s-control-plane-1</li>
+  <li>K8s-worker-1</li>
+  <li>K8s-worker-2</li>
+</ul>
 <br>  
 <h2 align="center">Storage 💿</h2> 
 <br>
-- VM's run at the moment on local storage
-- Data shares via NFS mounts to UNAS Pro
+<li>VM's run at the moment on local storage</li>
+<li>Data shares via NFS mounts to UNAS Pro</li>
 <br> 
 <h2 align="center">What is RunOnFlux? ✅</h2> 
 <br>
