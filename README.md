@@ -34,8 +34,8 @@ I’ve had several versions of my homelab. Due to rising electricity prices in t
     <li>2x U6 Pro</li>
     <li>G4 Instant</li>
     <li>UNAS Pro</li>
-    <li>3x Minisform MS-01 / i9-13900H, 96GB, 1TB NVMe (PVE)</li>
-    <li>1x Minisform MS-01 / i5-12600H, 32GB, 1TB NVMe (PBS)</li>
+    <li>3x Minisform MS-01 / i9-13900H, 96GB, 1TB NVMe (Proxmox Virtual Environment 1, 2 ,3)</li>
+    <li>1x Minisform MS-01 / i5-12600H, 32GB, 1TB NVMe (Proxmox Backup Server)</li>
     <li>CyberPower UPS</li>
   </ul>
 <br>
@@ -47,7 +47,7 @@ My network is built using Unifi devices, and for storage, I rely on a U-NAS Pro 
 <br>
 The Minisforum MS-01 is a compact, high-performance mini workstation/server designed for professional and homelab use. It's packed with powerful features like 2.5gbe ethernet, SFP+ that make it suitable for virtualization, containerization, and other homeLab stuff.
 <br>
-<h2 align="center">Software 🧑‍💻 </h2> 
+<h2 align="center">Software that I use in my homelab 🧑‍💻 </h2> 
 <br>
 <ul>
   <li>Unifi Network</li>
@@ -55,9 +55,15 @@ The Minisforum MS-01 is a compact, high-performance mini workstation/server desi
   <li>Unifi Protect</li>
   <li>Proxmox Virtual Enviroment (Type 1 Hypevisor)</li>
   <li>Proxmox Backup Server</li>
+  <li>Ubuntu Server</li>
+  <li>Windows</li>
+  <li>Windows Server</li>
+  <li>MacOS</li>
+  <li>iOS</li>
+  <li>Kubernetes</li>
 </ul>
 <br>
-<h2 align="center">Virtual Machine 📦</h2> 
+<h2 align="center">Virtual Machines 📦</h2> 
 <br>
 <ul>
   <li>Uptime Kuma</li>
@@ -118,13 +124,21 @@ Neoxa is a blockchain-based project that merges gaming with cryptocurrency. It a
 <br>
 Netsis (NET) is a blockchain project focused on providing cybersecurity solutions. It aims to integrate blockchain technology with cybersecurity services, offering tools for endpoint protection, data security, and user behavior analytics. The project operates its own blockchain and has a maximum supply of 210 million NET tokens.
 <br>
+<h2 align="center">On the to-do list</h2>
+<ul>
+  <li>New dashboard</li>
+  <li>Monitor software</li>
+  <li>Learn Kubernetes</li>
+  <li>Learn Python?</li>
+</ul>
 <h2 align="center">Hardware I like to add or change 💰</h2> 
 <br>
 <ul>
-  <li>Pro Max 24</li>
+  <li>Pro Max 24 PoE</li>
   <li>Pro XG 10 PoE</li>
   <li>U7 Pro XG</li>
-  <li>A second UNAS Pro with only SSD storage or a NVMe storage device</li>
-  <li>Upgrade the MS-01 from 96GB to 128GB memory</li>
-  <li>Seperate Kubernetes cluster? 🤔</li>
+  <li>A second UNAS Pro with only SSD storage or a nvme storage device</li>
+  <li>Upgrade the hypevisors (MS-01) from 96GB to 128GB memory</li>
+  <li>Add a Samsung 990 Pro 4Tb nvme ssd to each hypevisor. So OS and VM are seperated</li>
+  <li>Seperate Kubernetes cluster??? 🤔</li>
 </ul>
