@@ -17,7 +17,7 @@ I’ve had several versions of my homelab. Due to rising electricity prices in t
   <tr>
     <td align="center">
       <img src="images/homelab_version_2017.jpeg" width="225"/><br/>
-      <sub><i>2021</i></sub>
+      <sub><i>2017</i></sub>
     </td>
     <td align="center">
       <img src="images/current_homelab.jpeg" width="300"/><br/>
