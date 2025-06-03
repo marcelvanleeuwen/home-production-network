@@ -124,7 +124,7 @@ Neoxa is a blockchain-based project that merges gaming with cryptocurrency. It a
 <br>
 Netsis (NET) is a blockchain project focused on providing cybersecurity solutions. It aims to integrate blockchain technology with cybersecurity services, offering tools for endpoint protection, data security, and user behavior analytics. The project operates its own blockchain and has a maximum supply of 210 million NET tokens.
 <br>
-<h2 align="center">On the to-do list</h2>
+<h2 align="center">On the to-do list ❎</h2> 
 <ul>
   <li>New dashboard</li>
   <li>Monitor software</li>
