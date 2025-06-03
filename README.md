@@ -74,8 +74,10 @@ The Minisforum MS-01 is a compact, high-performance mini workstation/server desi
 <br>  
 <h2 align="center">Storage 💿</h2> 
 <br>
-<li>VM's run at the moment on local storage</li>
-<li>Data shares via NFS mounts to UNAS Pro</li>
+<ul>
+  <li>VM's run at the moment on local storage</li>
+  <li>Data shares via NFS mounts to UNAS Pro</li>
+</ul>
 <br> 
 <h2 align="center">What is RunOnFlux? ✅</h2> 
 <br>
@@ -100,10 +102,10 @@ Netsis (NET) is a blockchain project focused on providing cybersecurity solution
 <h2 align="center">Hardware I like to add or change 💰</h2> 
 <br>
 <ul>
- <li>- Pro Max 24</li>
-  <li>- Pro XG 10 PoE</li>
-  <li>- U7 Pro XG</li>
-  <li>- A second UNAS Pro with only SSD storage or a NVMe storage device</li>
-  <li>- Upgrade the MS-01 from 96GB to 128GB memory</li>
-  <li>- Seperate Kubernetes cluster? 🤔</li>
+  <li>Pro Max 24</li>
+  <li>Pro XG 10 PoE</li>
+  <li>U7 Pro XG</li>
+  <li>A second UNAS Pro with only SSD storage or a NVMe storage device</li>
+  <li>Upgrade the MS-01 from 96GB to 128GB memory</li>
+  <li>Seperate Kubernetes cluster? 🤔</li>
 </ul>
