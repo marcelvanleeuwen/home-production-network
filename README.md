@@ -71,22 +71,22 @@ The Minisforum MS-01 is a compact, high-performance mini workstation/server desi
   <li>Plex</li>
   <li>Tautulli</li>
   <li>Homarr</li>
-  <li>Cumulus Nodes 1 (Runonflux project expalined below)</li>
-  <li>Cumulus Nodes 2</li>  
-  <li>Cumulus Nodes 3</li>
-  <li>Cumulus Nodes 4</li>
-  <li>Cumulus Nodes 5</li>
-  <li>Cumulus Nodes 6</li>
-  <li>Cumulus Nodes 7</li>
-  <li>Cumulus Nodes 8</li>
-  <li>Cumulus Nodes 9</li>
-  <li>Cumulus Nodes 10</li>
-  <li>Presearch nodes 1 (Presearch project explained below)</li>
-  <li>Presearch nodes 2</li>
-  <li>Presearch nodes 3</li>
-  <li>Presearch nodes 4</li>
-  <li>Presearch nodes 5</li>
-  <li>Presearch nodes 6</li>
+  <li>Cumulus Node 1 (Runonflux project expalined below)</li>
+  <li>Cumulus Node 2</li>  
+  <li>Cumulus Node 3</li>
+  <li>Cumulus Node 4</li>
+  <li>Cumulus Node 5</li>
+  <li>Cumulus Node 6</li>
+  <li>Cumulus Node 7</li>
+  <li>Cumulus Node 8</li>
+  <li>Cumulus Node 9</li>
+  <li>Cumulus Node 10</li>
+  <li>Presearch node 1 (Presearch project explained below)</li>
+  <li>Presearch node 2</li>
+  <li>Presearch node 3</li>
+  <li>Presearch node 4</li>
+  <li>Presearch node 5</li>
+  <li>Presearch node 6</li>
   <li>Neoxa smart node 1</li>
   <li>Neoxa smart node 2</li>
   <li>Netsis master node</li>
