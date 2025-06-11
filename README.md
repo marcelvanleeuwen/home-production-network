@@ -1,4 +1,4 @@
-<h1 align="center">My HomeLab setup 🏠</h1>
+<h1 align="center">Home Production Network Setup 🏠</h1>
 <br>
 I’ve had several versions of my homelab. Due to rising electricity prices in the Netherlands, I built my latest setup using energy-efficient hardware. Previously, I used servers with Xeon processors, but now my servers are based on laptop hardware, which helps keep power consumption low while still delivering good performance. Modern laptop hardware often features many CPU cores and supports large amounts of memory, making it an excellent choice for homelabs. I’m a big fan of Ubiquiti UniFi products, and my UniFi hardware is also quite energy-efficient. Compared to my older self-built NAS systems, which consumed significantly more power, my UniFi NAS are much more efficient thanks to their ARM processor.
 <br>
