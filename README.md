@@ -64,7 +64,7 @@ The Minisforum MS-01 is a compact, high-performance mini workstation/server desi
 </ul>
 <hr>
 <br>
-<img src="images/proxmox-datacenter.png" width="600"/><br/>
+<img src="images/proxmox-datacenter.png" width="1000"/><br/>
 <sub><i>datacenter overview</i></sub>
 <br>
 <h2 align="center">Virtual Machines 📦</h2> 
@@ -102,7 +102,8 @@ The Minisforum MS-01 is a compact, high-performance mini workstation/server desi
 </ul>
 <br>  
 <hr>
-<img src="images/proxmox-pve-3.png" width="600"/><br/>
+<br>
+<img src="images/proxmox-pve-3.png" width="1000"/><br/>
 <sub><i>pve-3 overview</i></sub>
 <br>
 <h2 align="center">Storage 💿</h2> 
