@@ -62,6 +62,10 @@ The Minisforum MS-01 is a compact, high-performance mini workstation/server desi
   <li>iOS</li>
   <li>Kubernetes</li>
 </ul>
+<hr>
+<br>
+<img src="images/proxmox-datacenter.png" width="600"/><br/>
+<sub><i>datacenter overview</i></sub>
 <br>
 <h2 align="center">Virtual Machines 📦</h2> 
 <br>
@@ -97,6 +101,10 @@ The Minisforum MS-01 is a compact, high-performance mini workstation/server desi
   <li>K8s-worker-2</li>
 </ul>
 <br>  
+<hr>
+<img src="images/proxmox-pve-3.png" width="600"/><br/>
+<sub><i>pve-3 overview</i></sub>
+<br>
 <h2 align="center">Storage 💿</h2> 
 <br>
 <ul>
