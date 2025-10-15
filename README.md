@@ -75,24 +75,18 @@ The Minisforum MS-01 is a compact, high-performance mini workstation/server desi
   <li>Plex</li>
   <li>Tautulli</li>
   <li>Homarr</li>
-  <li>Cumulus Node 1 (Runonflux project expalined below)</li>
-  <li>Cumulus Node 2</li>  
-  <li>Cumulus Node 3</li>
-  <li>Cumulus Node 4</li>
-  <li>Cumulus Node 5</li>
-  <li>Cumulus Node 6</li>
-  <li>Cumulus Node 7</li>
-  <li>Cumulus Node 8</li>
-  <li>Cumulus Node 9</li>
-  <li>Cumulus Node 10</li>
+  <li>Nimbus Node 1 (Runonflux project expalined below)</li>
+  <li>Nimbus Node 2</li>  
   <li>Presearch node 1 (Presearch project explained below)</li>
   <li>Presearch node 2</li>
   <li>Presearch node 3</li>
   <li>Presearch node 4</li>
   <li>Presearch node 5</li>
   <li>Presearch node 6</li>
+  <li>Presearch node 7</li>
+  <li>PreSeeker</li>
+  <li>PreCrawler</li>
   <li>Neoxa smart node 1</li>
-  <li>Neoxa smart node 2</li>
   <li>Netsis master node</li>
   <li>Windows 11 Pro</li>
   <li>Windows Server 2022</li>
